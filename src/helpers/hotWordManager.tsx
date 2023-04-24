@@ -30,7 +30,7 @@ const initializeManager = async () => {
     // }
 
     return porcupineManager = await PorcupineManager.fromKeywordPaths(
-        "IB2mDvKpIxwJQmwg/0pJDNK7vTLfrvDa/+F5oVvGc01xkxRtxRx3SA==",
+        "IB2mDvKpIxwJQmwg/0DNK7vTLfrvDa/+F5oVvGc01xkxxRx3SA==",
         [RNFS.DocumentDirectoryPath + '/vocalist_en_android_v2_1_0.ppn'],
         detectionCallback,
         processErrorCallback,
